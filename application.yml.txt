@@ -1,1 +1,1 @@
-attribute= 15
+myAttribute= 30
